@@ -116,8 +116,8 @@ Todas se instalan automáticamente en la primera celda de cada notebook.
 
 ## 🤝 Integrantes del Equipo 6
 
-| Nombre | Rol |
-|--------|-----|
+| Nombre | 
+|--------|
 DAVID RAMIREZ VELEZ
 JESSICA JOHANNA OBANDO GARCIA
 LUKAS JIMENEZ BUENO
