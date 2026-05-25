@@ -126,6 +126,4 @@ MATEO GONZALEZ ESCUDERO
 ---
 
 ## 📌 Notas
-- Cada notebook incluye una **Opción B** con dataset simulado en caso de no contar con acceso a Kaggle.
-- Las conclusiones, implicaciones éticas e interpretaciones de negocio se documentan al final de cada notebook.
-- El video de sustentación (máx. 12 min) cubre los puntos clave del proceso y las decisiones técnicas tomadas.
+Reviews.csv no se incluye por su tamaño. Descargar desde: Amazon Fine Food Reviews – Kaggle.
