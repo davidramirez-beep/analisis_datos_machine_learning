@@ -3,7 +3,6 @@
 **Carrera:** Ingeniería en Ciencia de Datos  
 **Grupo:** 190304018-1 | **Periodo:** 2025-2  
 **Docente:** Daniel Alexis Nieto Mora  
-**Equipo:** 6
 
 ---
 
@@ -119,9 +118,6 @@ Todas se instalan automáticamente en la primera celda de cada notebook.
 | Nombre | 
 |--------|
 DAVID RAMIREZ VELEZ
-JESSICA JOHANNA OBANDO GARCIA
-LUKAS JIMENEZ BUENO
-MATEO GONZALEZ ESCUDERO
 
 ---
 
