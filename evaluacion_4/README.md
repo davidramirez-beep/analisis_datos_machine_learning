@@ -118,7 +118,9 @@ Todas se instalan automáticamente en la primera celda de cada notebook.
 | Nombre | 
 |--------|
 DAVID RAMIREZ VELEZ
-
+JESSICA JOHANNA OBANDO GARC�A
+LUKAS JIMENEZ BUENO
+MATEO GONZALEZ ESCUDERO
 ---
 
 ## 📌 Notas
