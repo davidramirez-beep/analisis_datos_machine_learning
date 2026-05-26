@@ -113,7 +113,7 @@ Todas se instalan automáticamente en la primera celda de cada notebook.
 
 ---
 
-## 🤝 Integrantes del Equipo 6
+## 🤝 Integrantes del Equipo
 
 | Nombre | 
 |--------|
